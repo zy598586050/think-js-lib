@@ -1,0 +1,13 @@
+{
+  "name": "think-js-lib",
+  "version": "1.1.1",
+  "description": "This is the ThinkJS core dependency.",
+  "keywords": [
+    "think-js-lib",
+    "think-js",
+    "thinkjs"
+  ],
+  "main": "index.js",
+  "author": "zhangyu",
+  "license": "ISC"
+}
